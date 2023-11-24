@@ -1,4 +1,8 @@
 # chitanka-ubuntu_20.04.6
+Първо и най-важно - "образа" на читанката на "нова" ВМ е тук:
+https://mega.nz/file/TRJBhAia#E9EG-pSe2XOUKEN3XLE1InlPUUscRjH5IS1XGEOlWxc
+Знам че е доста тъпо да предлагаш 20 Гб даунлоуд от новозеландски сървър, ама за сега е така... До няколко часа ще има линкове и към по-бързи сървъри...
+
 Моят доста скромен (и вероятно - некадърен) опит за chitanka на виртуална машина
 Това е chitanka на на VirtualBox виртуална машина Ubuntu 20.04.6 LTS - (Focal Fossa). Актуална е за съдържанието на chitanka.info към 19.11.2023 г. 
 Създадена е с помощта на chitanka-installer от https://github.com/chitanka/chitanka-installer
