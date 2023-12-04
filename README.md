@@ -24,11 +24,11 @@ https://drive.google.com/file/d/1GRLsXQAQpYESy6XQo401E549paOwhuYi/view?usp=drive
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 Сървърите за ъпдейт на ВМ са конфигурирани за българско "огледало"... Ако сте в чужбина и достъпът до български сървъри е бавен, то можете да конфигурирате "огледалото" за международен достъп така:
-   sudo cp /etc/apt/sources.list /etc/apt/sources.list.bg
+sudo cp /etc/apt/sources.list /etc/apt/sources.list.bg 
    
-   sudo rm /etc/apt/sources.list
+sudo rm /etc/apt/sources.list 
    
-   sudo cp /etc/apt/sources.list.international /etc/apt/sources.list
+sudo cp /etc/apt/sources.list.international /etc/apt/sources.list 
    
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
