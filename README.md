@@ -15,4 +15,4 @@ magnet:?xt=urn:btih:bac2f6ea7c5deaf32166cead24206599d7c9636a&dn=32bit
    
 magnet:?xt=urn:btih:ed821e52a635542724b16b242640e0ef327634d0&dn=Cihtanka_new_64bit_v0.3
    
-   Пояснения за инсталация, изисквания и пр. във файла 
+   Пояснения за инсталация, изисквания и пр. във файла [README_64.md](README_64.md)
