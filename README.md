@@ -30,7 +30,7 @@ https://zamunda.net/download_go.php?id=767752&m=x
    Този вариант е с малко по-високи изисквания към хардуера, "нови" десктопи и лаптопи с инсталирана 64 битова операционна система и поддръжка на повече от един процесор/ядро.
    Магнет линк за него:
    
-[🧲 Свали чрез Магнет линк (Торент)](magnet:?xt=urn:btih:69de400ecbeb6ecc480d7a994c739cd18e042cc5&dn=chitanka-ubuntu-x-64-final-v-1&xl=17704157184&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=http://ia601608.us.archive.org/26/items/&ws=http://ia801608.us.archive.org/26/items/&ws=https://archive.org/download/)
+[🧲 Свали чрез Магнет линк](magnet:?xt=urn:btih:69de400ecbeb6ecc480d7a994c739cd18e042cc5&dn=chitanka-ubuntu-x-64-final-v-1&xl=17704157184&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=http://ia601608.us.archive.org/26/items/&ws=http://ia801608.us.archive.org/26/items/&ws=https://archive.org/download/)
    
    Подробни пояснения за инсталация, изисквания и пр. във файла [README_64.md](README_64.md)
 
@@ -49,7 +49,7 @@ https://archive.org/download/chitanka-ubuntu-x-64-final-v-1/chitanka-ubuntu-x-64
 
 или
 
-[🧲 Свали чрез Магнет линк (Торент)](magnet:?xt=urn:btih:69de400ecbeb6ecc480d7a994c739cd18e042cc5&dn=chitanka-ubuntu-x-64-final-v-1&xl=17704157184&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=http://ia601608.us.archive.org/26/items/&ws=http://ia801608.us.archive.org/26/items/&ws=https://archive.org/download/)
+[🧲 Свали чрез Магнет линк](magnet:?xt=urn:btih:69de400ecbeb6ecc480d7a994c739cd18e042cc5&dn=chitanka-ubuntu-x-64-final-v-1&xl=17704157184&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=http://ia601608.us.archive.org/26/items/&ws=http://ia801608.us.archive.org/26/items/&ws=https://archive.org/download/)
 
 *********************************************************************
 
