@@ -13,10 +13,12 @@
 В момента виртуалният хард-диск на "читанката" (файлът chitanka-ubuntu-server-v1.0.vdi) заема малко под 60 GB. За да можете да разархивирате сваления архив Chitanka_Ubuntu_x64_Final_v1.zip (който е 16.4 GB), се нуждаете от поне 70 GB свободно място на вашия диск!
 
 Сваляне:
-
-Archive.org: https://archive.org/details/chitanka-ubuntu-x-64-final-v-1
-
-Magnet Link: magnet:?xt=urn:btih:622119868af5ed68b94aaa52f71b3085122f0b8d&dn=Chitanka_Ubuntu_x64_Final_v1.zip&tr=http%3A%2F%2Ftracker.p2pbg.com%3A2710%2Fannounce
+* 🏛️ **Archive.org (Страница):** [Кликни тук за директно сваляне](https://archive.org/details/chitanka-ubuntu-x-64-final-v-1)
+* 📥 **Директен Торент файл:** [Свали .torrent файл](https://archive.org/download/chitanka-ubuntu-x-64-final-v-1/chitanka-ubuntu-x-64-final-v-1_archive.torrent)
+* 🧲 **Магнет линк (копирайте целия код долу):**
+```text
+magnet:?xt=urn:btih:69de400ecbeb6ecc480d7a994c739cd18e042cc5&dn=chitanka-ubuntu-x-64-final-v-1&xl=17704157184&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=[http://ia601608.us.archive.org/26/items/&ws=http://ia801608.us.archive.org/26/items/&ws=https://archive.org/download/](http://ia601608.us.archive.org/26/items/&ws=http://ia801608.us.archive.org/26/items/&ws=https://archive.org/download/)
+```
 
 Проверка на архива (SHA256):
 A7F241A2C3FEF97B7B031D2A94257104BFEFC615A6C6C23D31706C55E9674021
@@ -55,13 +57,13 @@ A7F241A2C3FEF97B7B031D2A94257104BFEFC615A6C6C23D31706C55E9674021
 
 Загасете виртуалната машина chitanka
 
-[!TIP]
+>[!TIP]
 Натиснете 1 и след това клавиша "Enter". Така ще проверите дали ВМ има връзка с Интернет. Ако всичко с ping-а е наред, тогава ще видите и вашия IP адрес в локалната мрежа.
 
-[!IMPORTANT]
+>[!IMPORTANT]
 Въведете изписания IP адрес в браузъра на вашия компютър (или телефон/таблет в същата мрежа) и ще имате своята "локална читанка"!
 
-[!CAUTION]
+>[!CAUTION]
 За тези, които са наясно с Linux и не се плашат от терминал - от скрипта с менюто се излиза с избор 9. Тогава обаче трябва да се оправяте сами :)
 
 Ако имате проблеми - пишете във форума на читанка или на мен лично: khankrum359@gmail.com
