@@ -43,10 +43,15 @@ magnet:?xt=urn:btih:69de400ecbeb6ecc480d7a994c739cd18e042cc5&dn=chitanka-ubuntu-
 Можете да го свалите на:
 *********************************************************************
 https://archive.org/details/chitanka-ubuntu-x-64-final-v-1 
+
 или
+
 https://archive.org/download/chitanka-ubuntu-x-64-final-v-1/chitanka-ubuntu-x-64-final-v-1_archive.torrent
+
 или
+
 magnet:?xt=urn:btih:69de400ecbeb6ecc480d7a994c739cd18e042cc5&dn=chitanka-ubuntu-x-64-final-v-1&xl=17704157184&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=http://ia601608.us.archive.org/26/items/&ws=http://ia801608.us.archive.org/26/items/&ws=https://archive.org/download/
+
 *********************************************************************
 
 Важат всички пояснения за инсталация, изисквания и пр. във файла [README_64.md](README_64.md)
