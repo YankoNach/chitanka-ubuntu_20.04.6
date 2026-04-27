@@ -30,32 +30,25 @@ https://zamunda.net/download_go.php?id=767752&m=x
    Този вариант е с малко по-високи изисквания към хардуера, "нови" десктопи и лаптопи с инсталирана 64 битова операционна система и поддръжка на повече от един процесор/ядро.
    Магнет линк за него:
    
-magnet:?xt=urn:btih:ed821e52a635542724b16b242640e0ef327634d0&dn=Cihtanka_new_64bit_v0.3
+magnet:?xt=urn:btih:69de400ecbeb6ecc480d7a994c739cd18e042cc5&dn=chitanka-ubuntu-x-64-final-v-1&xl=17704157184&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=http://ia601608.us.archive.org/26/items/&ws=http://ia801608.us.archive.org/26/items/&ws=https://archive.org/download/
    
    Пояснения за инсталация, изисквания и пр. във файла [README_64.md](README_64.md)
 
    **************************************************************************************************
    ********************************      PS      ****************************************************
    
-   Нов вариант на 64-битовата версия, актуална към 01.09.2024 г. Коригирани са грешките в даунлоада на книги (виж форума на Читанката: 
-   https://forum.chitanka.info/viewtopic.php?t=3949&start=660 
+   Нов вариант на 64-битовата версия, актуална към април 2026 г. Коригирани са грешките в даунлоада на книги (виж форума на Читанката: 
+   https://forum.chitanka.info/viewtopic.php?t=3949&start=660 , както и множество мои грешки, водещи до натрупването на огромно количество (гигабайти) ненужни логове!
 *****************************************************************************************************
 Можете да го свалите на:
 *********************************************************************
-magnet:?xt=urn:btih:e7e28e6a4bccc2508c8f0d959b403af66dde7d42&dn=chitanka-ubuntu_server-v0.4-new&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3Db6d881acb3059d09a35764afe9a74278
-*********************************************************************
-Качен е и в Замунда на:
-
-https://zamunda.net/download_go.php?id=767392
-
+https://archive.org/details/chitanka-ubuntu-x-64-final-v-1 
+или
+https://archive.org/download/chitanka-ubuntu-x-64-final-v-1/chitanka-ubuntu-x-64-final-v-1_archive.torrent
+или
+magnet:?xt=urn:btih:69de400ecbeb6ecc480d7a994c739cd18e042cc5&dn=chitanka-ubuntu-x-64-final-v-1&xl=17704157184&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=http://ia601608.us.archive.org/26/items/&ws=http://ia801608.us.archive.org/26/items/&ws=https://archive.org/download/
 *********************************************************************
 
 Важат всички пояснения за инсталация, изисквания и пр. във файла [README_64.md](README_64.md)
-
-PPS *****************************************************************
-По неясна за сега причина, не успявам да сийд-вам торента, но ще продължавам да опитвам :-)
-Качил съм ВМ и на долния линк:
-
-https://1drv.ms/f/s!AuljvX9S3qtJhZd-NC9kR4cXj9FqIA?e=d7hfmJ
 
 ********************************************************************
