@@ -42,5 +42,6 @@ https://zamunda.net/download_go.php?id=767752&m=x
 ```text
 magnet:?xt=urn:btih:69de400ecbeb6ecc480d7a994c739cd18e042cc5&dn=chitanka-ubuntu-x-64-final-v-1&xl=17704157184&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=[http://ia601608.us.archive.org/26/items/&ws=http://ia801608.us.archive.org/26/items/&ws=https://archive.org/download/](http://ia601608.us.archive.org/26/items/&ws=http://ia801608.us.archive.org/26/items/&ws=https://archive.org/download/)
 
-> [!IMPORTANT]  
-> Подробни пояснения за инсталация, системни изисквания и работа с менюто ще намерите в специализирания файл: **[README_64.md](README_64.md)**
+
+ [!IMPORTANT]  
+ Подробни пояснения за инсталация, системни изисквания и работа с менюто ще намерите в специализирания файл: **[README_64.md](README_64.md)**
