@@ -36,12 +36,11 @@ https://zamunda.net/download_go.php?id=767752&m=x
 
 **Можете да свалите новата версия от тук:**
 
-* 🏛️ **Archive.org (Страница):** [Кликни тук](https://archive.org/details/chitanka-ubuntu-x-64-final-v-1)
-* 📥 **Директен Торент файл:** [Свали .torrent](https://archive.org/download/chitanka-ubuntu-x-64-final-v-1/chitanka-ubuntu-x-64-final-v-1_archive.torrent)
-* 🧲 **Магнет линк:** [Кликни тук за добавяне в торент клиент](<magnet:?xt=urn:btih:69de400ecbeb6ecc480d7a994c739cd18e042cc5&dn=chitanka-ubuntu-x-64-final-v-1&xl=17704157184&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=http://ia601608.us.archive.org/26/items/&ws=http://ia801608.us.archive.org/26/items/&ws=https://archive.org/download/>)
-  
-
----
+* 🏛️ **Archive.org (Страница):** [Кликни тук за директно сваляне](https://archive.org/details/chitanka-ubuntu-x-64-final-v-1)
+* 📥 **Директен Торент файл:** [Свали .torrent файл](https://archive.org/download/chitanka-ubuntu-x-64-final-v-1/chitanka-ubuntu-x-64-final-v-1_archive.torrent)
+* 🧲 **Магнет линк (копирайте целия код долу):**
+```text
+magnet:?xt=urn:btih:69de400ecbeb6ecc480d7a994c739cd18e042cc5&dn=chitanka-ubuntu-x-64-final-v-1&xl=17704157184&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&ws=[http://ia601608.us.archive.org/26/items/&ws=http://ia801608.us.archive.org/26/items/&ws=https://archive.org/download/](http://ia601608.us.archive.org/26/items/&ws=http://ia801608.us.archive.org/26/items/&ws=https://archive.org/download/)
 
 > [!IMPORTANT]  
 > Подробни пояснения за инсталация, системни изисквания и работа с менюто ще намерите в специализирания файл: **[README_64.md](README_64.md)**
